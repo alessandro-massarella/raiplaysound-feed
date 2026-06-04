@@ -2,39 +2,50 @@
 
 Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono generati automaticamente tramite GitHub Actions e GitHub Pages. In modo da potersi abbonare/ascoltare su qualsiasi client podcast  e non esclusivamente tramite l’app RaiPlaySound. 
 
+Questo progetto è una evoluzione di un mio [precedente repository](https://github.com/giuliomagnifico/raiplay-feed),  il quale aveva il problema di non risolvere correttamente la redirect ed era quindi necessario scaricare il file prima di riprodurlo certi podcast. Adesso gli URLs vengono risolti fino alla CDN finale Rai, evitando i problemi causati dai redirect `relinkerServlet.htm` con alcuni client podcast (i.e. [PocketCasts](https://pocketcasts.com/)).
+
+
+> [!TIP]
+> È una versione modificata del repository [frammenti/raiplaysoundrss](https://github.com/frammenti/raiplaysoundrss) costruita per poter funzionare usando solo su GitHub, in modo da essere indipendente da un server esterno. 
+
 
 ## Podcast
 
 | Programma | Feed RSS |
 |----------|----------|
-| America7 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/america7.xml |
-| Detectives - Casi risolti e irrisolti | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/detectives-casirisoltieirrisolti.xml |
-| Eta Beta | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
-| Giro del Mondo in una Coppa | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/girodelmondoinunacoppa.xml |
-| GR Friuli Venezia Giulia | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
-| GR1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
-| L'edicola di Radio1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
-| Lillo e Greg 610 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
-| Number Stations - Le radio delle spie | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
-| Prima Pagina | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/primapagina.xml |
-| Radio anch'io | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radioanchio.xml |
-| Radio3 Mondo | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3mondo.xml |
-| Radio3 Scienza | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3scienza.xml |
-| Revolution | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
-| Tra poco in edicola | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/trapocoinedicola.xml |
-| Tutta la città ne parla | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/tuttalacittaneparla.xml |
-| Un giorno da pecora | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ungiornodapecora.xml |
-| Zapping | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/zapping.xml |
+| Almeno credo | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/almenocredo.xml |
+| America7 | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/america7.xml |
+| Artificialintelligence | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/artificialintelligence.xml |
+| Battiti | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/battiti.xml |
+| Città sonore | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/cittasonore.xml |
+| Detectives - Casi risolti e irrisolti | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/detectives-casirisoltieirrisolti.xml |
+| Eta Beta | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
+| GR Friuli Venezia Giulia | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
+| GR1 | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
+| Hollywood Party | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/hollywoodparty.xml |
+| Italia 90 - Il rock alternativo | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/italia90-ilrockalternativo.xml |
+| L'edicola di Radio1 | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
+| La Pennicanza | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/lapennicanza.xml |
+| Lillo e Greg 610 | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
+| Musical Box | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/musicalbox.xml |
+| Prima Pagina | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/primapagina.xml |
+| Radio anch'io | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/radioanchio.xml |
+| Radio2 Social Club | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/radio2socialclub.xml |
+| Radio3 Mondo | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/radio3mondo.xml |
+| Radio3 Scienza | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/radio3scienza.xml |
+| Revolution | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
+| Setlist | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/setlist.xml |
+| Stereonotte | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/stereonotte.xml |
+| Tra poco in edicola | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/trapocoinedicola.xml |
+| Tutta la città ne parla | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/tuttalacittaneparla.xml |
+| Un giorno da pecora | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/ungiornodapecora.xml |
+| Zapping | https://alessandro-massarella.github.io/raiplaysound-feed/rss/programmi/zapping.xml |
 
 ## Audiolibri
 
 | Audiolibro | Feed RSS |
 |------------|----------|
-| Arancia meccanica | https://giuliomagnifico.github.io/raiplaysound-feed/rss/audiolibri/aranciameccanica.xml |
-| Cuore di tenebra | https://giuliomagnifico.github.io/raiplaysound-feed/rss/audiolibri/cuoreditenebra.xml |
-| Il grande Gatsby | https://giuliomagnifico.github.io/raiplaysound-feed/rss/audiolibri/ilgrandegatsby.xml |
-| Racconti di Italo Calvino | https://giuliomagnifico.github.io/raiplaysound-feed/rss/audiolibri/raccontidiitalocalvino.xml |
-| Ventimila leghe sotto i mari | https://giuliomagnifico.github.io/raiplaysound-feed/rss/audiolibri/ventimilaleghesottoimari.xml |
+| Arancia meccanica | https://alessandro-massarella.github.io/raiplaysound-feed/rss/audiolibri/aranciameccanica.xml |
 
 ## Abbonarsi o aggiungere un feed
 
@@ -64,12 +75,3 @@ oppure per un audiolibro:
 ## Aggiornamento ogni ora
 
 I feed vengono aggiornati automaticamente tramite GitHub Actions ogni ora e viene controllata la validità degli URL vecchi ogni 14 giorni.
-
-## INFO
-
-Questo progetto è una evoluzione di un mio [precedente repository](https://github.com/giuliomagnifico/raiplay-feed),  il quale aveva il problema di non risolvere correttamente la redirect ed era quindi necessario scaricare il file prima di riprodurlo certi podcast. Adesso gli URLs vengono risolti fino alla CDN finale Rai, evitando i problemi causati dai redirect `relinkerServlet.htm` con alcuni client podcast (i.e. [PocketCasts](https://pocketcasts.com/)).
-
-
-> [!TIP]
-> È una versione modificata del repository [frammenti/raiplaysoundrss](https://github.com/frammenti/raiplaysoundrss) costruita per poter funzionare usando solo su GitHub, in modo da essere indipendente da un server esterno. 
-
