@@ -4,25 +4,15 @@
     "date": "2025-11-02T12:14:00.000Z",
     "resolvedAt": 1791695075920
   },
-  "ContentItem-8158bf3e-80a8-47ba-bcfa-3601fe776b4e": {
-    "mp3": "https://creativemedia9-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30343321.mp3",
-    "date": "2026-09-15T11:17:00.000Z",
-    "resolvedAt": 1792036643947
-  },
-  "ContentItem-b8867766-18b2-40db-9447-70948f95cc28": {
-    "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30341469.mp3",
-    "date": "2026-09-15T06:33:00.000Z",
-    "resolvedAt": 1792036644746
-  },
   "ContentItem-eb73ea70-f352-4671-8939-d1bf45ca7a93": {
     "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30351519.mp3",
     "date": "2026-09-16T11:17:00.000Z",
-    "resolvedAt": 1790831048498
+    "resolvedAt": 1792122809320
   },
   "ContentItem-5c7ad38f-1530-40d9-8961-0fdf6079af7d": {
-    "mp3": "https://creativemedia9-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30349314.mp3",
+    "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30349314.mp3",
     "date": "2026-09-16T06:21:00.000Z",
-    "resolvedAt": 1790831049277
+    "resolvedAt": 1792122809542
   },
   "ContentItem-c4adcce3-9b3c-48f0-8a7b-f7c4e8d8c0dc": {
     "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30359544.mp3",
@@ -152,12 +142,12 @@
   "ContentItem-52ea5dce-0257-4f1b-aede-d9cc2cb88f3b": {
     "mp3": "https://creativemedia9-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30461397.mp3",
     "date": "2026-09-30T11:17:00.000Z",
-    "resolvedAt": 1790831046480
+    "resolvedAt": 1792122808442
   },
   "ContentItem-e4a51434-646d-4e5b-b6e3-6218e98e144c": {
-    "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30459357.mp3",
+    "mp3": "https://creativemedia9-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30459357.mp3",
     "date": "2026-09-30T06:33:00.000Z",
-    "resolvedAt": 1790831047384
+    "resolvedAt": 1792122808740
   },
   "ContentItem-1fad64c4-8564-4e7a-9924-e1a4b93beabd": {
     "mp3": "https://creativemedia9-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30470993.mp3",
@@ -298,5 +288,15 @@
     "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30579210.mp3",
     "date": "2026-10-14T06:33:00.000Z",
     "resolvedAt": 1792036642299
+  },
+  "ContentItem-4f063256-e2a0-4309-be8f-abaf93ede2f9": {
+    "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30590005.mp3",
+    "date": "2026-10-15T11:13:00.000Z",
+    "resolvedAt": 1792122807958
+  },
+  "ContentItem-22f5138a-3fdb-4de2-a3d9-45fd00342998": {
+    "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Friuli_mp3/30587511.mp3",
+    "date": "2026-10-15T06:09:00.000Z",
+    "resolvedAt": 1792122808233
   }
 }
