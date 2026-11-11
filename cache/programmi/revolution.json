@@ -714,11 +714,6 @@
     "date": "2025-11-11T18:57:00.000Z",
     "resolvedAt": 1794203714945
   },
-  "ContentItem-1d3314d4-9b83-4879-85c4-ee983347ad01": {
-    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/27781002_1800.mp3",
-    "date": "2025-11-10T18:59:00.000Z",
-    "resolvedAt": 1794203715768
-  },
   "ContentItem-af1e48d1-cf61-44c4-a062-a66e06fca62a": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/sound_cms/27652896.MP3",
     "date": "2025-10-27T10:45:00.000Z",
@@ -755,9 +750,9 @@
     "resolvedAt": 1794292943382
   },
   "ContentItem-18e31469-b146-4fe0-9a2a-2ee78ffa64d3": {
-    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/29617065_1800.mp3",
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/29617065_1800.mp3",
     "date": "2026-06-04T18:01:00.000Z",
-    "resolvedAt": 1793163282152
+    "resolvedAt": 1794374957886
   },
   "ContentItem-bbfa4944-fbde-4bc0-9c61-be22044d4a31": {
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/29626074_1800.mp3",
@@ -805,9 +800,9 @@
     "resolvedAt": 1794292942854
   },
   "ContentItem-caf7f928-5c8f-4d90-bf22-a538fb047a63": {
-    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/29726949_1800.mp3",
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/29726949_1800.mp3",
     "date": "2026-06-18T17:58:00.000Z",
-    "resolvedAt": 1793163281242
+    "resolvedAt": 1794374957370
   },
   "ContentItem-319e4ef9-a41e-4a83-96c7-1763e6e727ac": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/29735015_1800.mp3",
@@ -817,7 +812,7 @@
   "ContentItem-7c185bde-ce76-4db2-9a95-6b0f28416d08": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30340079_1800.mp3",
     "date": "2026-09-14T19:31:00.000Z",
-    "resolvedAt": 1793163280426
+    "resolvedAt": 1794374957128
   },
   "ContentItem-d7fdbc48-ca38-4b57-b07c-60ddac9c5751": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/sound_cms/30345725.mp3",
@@ -867,7 +862,7 @@
   "ContentItem-d67d04a0-9261-420d-8dd5-1dadd6df459c": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30448597_1800.mp3",
     "date": "2026-09-28T18:03:00.000Z",
-    "resolvedAt": 1793163279634
+    "resolvedAt": 1794374956821
   },
   "ContentItem-4e0ebe18-7e2e-42a4-b533-aff1bab0e2f2": {
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30457974_1800.mp3",
@@ -915,14 +910,14 @@
     "resolvedAt": 1794115208434
   },
   "ContentItem-b9e8d284-cf3e-4df7-ad2a-be4e6ede603b": {
-    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30568470_1800.mp3",
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30568470_1800.mp3",
     "date": "2026-10-12T17:59:00.000Z",
-    "resolvedAt": 1793163278818
+    "resolvedAt": 1794374956286
   },
   "ContentItem-6d5fc7e6-d6c8-4aa3-b7a7-208152ed1d83": {
-    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/sound_cms/30581161.MP3",
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/sound_cms/30581161.MP3",
     "date": "2026-10-13T18:01:00.000Z",
-    "resolvedAt": 1793163278453
+    "resolvedAt": 1794374956089
   },
   "ContentItem-7ba64dbe-9c7b-4cae-998f-723ab7aec065": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30585352_1800.mp3",
@@ -1013,5 +1008,10 @@
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30801394_1800.mp3",
     "date": "2026-11-09T19:56:00.000Z",
     "resolvedAt": 1794292942034
+  },
+  "ContentItem-0f48d786-9e10-40cf-bc10-2bdb716edfd5": {
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut_Revolution/30810295_1800.mp3",
+    "date": "2026-11-10T18:58:00.000Z",
+    "resolvedAt": 1794374955859
   }
 }
